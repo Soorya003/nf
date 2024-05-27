@@ -1,0 +1,15 @@
+
+.trend{
+    text-align: center;
+    background-color: rgb(99, 92, 197);
+    color:white
+}
+
+body{
+    background-color: rgba(141, 240, 13, 0.878);
+}
+
+.main{
+    color:white;
+    font-size: 32px;
+}
